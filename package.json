@@ -1,5 +1,5 @@
 {
-  "name": "module10-rest-transcript-activity",
+  "name": "API-activity",
   "version": "2023.2.0",
   "type": "module",
   "main": "server.js",
